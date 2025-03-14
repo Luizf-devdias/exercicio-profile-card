@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap');
+
+body {
+    background-color: hsl(185, 75%, 39%);
+    font-family: 'kumbh sans';
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #ffffff;
+    width: 320px;
+    height: 380px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px #000000;
+}
+
+.cartao {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 12px;
+}
+
+.informacoes-principais {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+img {
+    width: 35%;
+    height: auto;
+}
+
+hr {
+    display: block;
+    width: 320px;
+    height: 1px;
+    background-color: rgb(32, 32, 32);
+    border: none;
+    margin-top: 45px;
+    
+}
+
+.nome {
+    font-weight: 700;
+    margin-top: 5px;
+}
+
+.idade {
+    color: rgb(123, 101, 101);
+}
+
+.estado {
+    color: rgb(123, 101, 101); 
+    margin-top: 5px;
+}
+
+.informacoes-secundarias .metricas {
+    display: flex;
+    align-items: center;
+    padding: 24px 0px 0 0;
+    text-align: center;
+    font-weight: 700;
+    gap: 48px;
+}
+
+.informacoes-finais .descricao-metricas {
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    text-align: center;
+    gap: 35px;
+    padding-left: 10px;
+}
+
+.descricao-metricas {
+    padding-right: 20px;
+}
+
+.alinhar-2 {
+    padding-right: 12px;
+}
+
