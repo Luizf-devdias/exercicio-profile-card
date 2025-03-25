@@ -1,6 +1,7 @@
 # 🚀 Profile Card - Um Cartão de Perfil Moderno e Elegante
 
 Bem-vindo ao **Profile Card**! 🎉 Um projeto simples e elegante criado com **HTML5** e **CSS3** para exibir um perfil de forma minimalista e responsiva. Perfeito para quem quer praticar estilização e estruturação web! 💻✨
+#### ✅ Link do projeto: https://luizf-devdias.github.io/exercicio-profile-card/
 
 ## 🎯 Objetivo
 
